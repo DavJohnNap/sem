@@ -1,1 +1,1 @@
-First Test, adding initial files
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/DavJohnNap/sem/main.yml?branch=master)
